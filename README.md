@@ -1,7 +1,9 @@
-**Number Guessing Game Smart Contract — Flow EVM**
+**Number Guessing Game Smart Contract — Flow EVM** :
 
-**Contract Address:**  
-0x7993587DaE3Cf6E37B68571eeAb2C8c43acA0456
+> 📝 **Note:** This project was built as part of a college blockchain workshop to learn Solidity, smart contracts, and Flow EVM. It represents one of my early learning projects.
+
+## Contract Address
+0x7993587DaE3Cf6E37B68571eeAb2C8C43acA0456
 
 ***
 
